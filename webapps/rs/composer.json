@@ -1,0 +1,17 @@
+{
+    "name": "rfatonii/mar",
+    "autoload": {
+        "psr-4": {
+            "Rfatonii\\Mar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fatonirizki",
+            "email": "fatonirizki12@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}
